@@ -25,7 +25,7 @@
         </div>
 </template>
 
-<script>
+<script lang="ts">
 export default {
   name: 'ContainerComponent5', // 更新為多個單詞
 };

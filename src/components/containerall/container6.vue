@@ -9,7 +9,7 @@
         name: 'ContainerComponent6',
     };
 </script>
-<style coped>
+<style scoped>
     .container6{
     display: flex;
     justify-content: end;

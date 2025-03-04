@@ -29,7 +29,7 @@
         name: 'ContainerComponent3',
     };
 </script>
-<style coped>
+<style scoped>
     .container3 {
     display: flex;
     border: 1px solid black;
